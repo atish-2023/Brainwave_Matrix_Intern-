@@ -46,5 +46,40 @@ output
 ![image](https://github.com/user-attachments/assets/8bb135c2-4a92-444f-ae8d-ec4f857b6a0c)
 
 
+![Screenshot 2025-02-15 191912](https://github.com/user-attachments/assets/d575e5b3-3e80-47ad-873b-dedb9a651928)
+
+
+![Screenshot 2025-02-15 191942](https://github.com/user-attachments/assets/91f6d872-2c8f-4f13-8757-cdc0f3fa92e7)
+
+
+![image](https://github.com/user-attachments/assets/aac34ad4-d7b1-4864-bd4b-09ff1882ae1c)
+
+
+atmdemo
+├── JAX-WS Web Services
+│   └── src
+│       └── main
+│           └── java
+│               └── in
+│                   └── sp
+│                       └── backend
+│                           ├── AtmInterface.java
+│                           ├── CheckBalance.java
+│                           ├── DepositMoney.java
+│                           ├── Exit.java
+│                           └── WithdrawMoney.java
+├── Libraries
+│   └── Referenced Libraries
+│       └── Brainwave_Matrix_Intern- [main] Create a .jar
+├── build
+├── src
+│   └── java
+│       └── webapp
+│           ├── META-INF
+│           ├── WEB-INF
+│           │   └── lib
+│           │       └── mysql-connector-j-9.2.0.jar
+│           └── profile.jsp
+│           └── welcome.jsp
 
 
